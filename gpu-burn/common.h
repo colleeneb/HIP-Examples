@@ -6,7 +6,7 @@
 
 #ifndef GPUBURN_COMMON_H_
 #define GPUBURN_COMMON_H_
-
+#include <memory>
 // ---------------------------------------------------------------------------
 namespace gpuburn {
 
